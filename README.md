@@ -2,7 +2,8 @@ RED
 ![image](https://github.com/user-attachments/assets/a09e95e9-bad3-410c-8fbc-825f6462ccaa)
 
 API 명세서
-![image](https://github.com/user-attachments/assets/9e91e987-7374-4123-ba60-55e966c89e4d)
+![image](https://github.com/user-attachments/assets/be173314-a33f-43ca-a707-813d101083f6)
+
 
 SQL (2번 BTS -> 김연아로 바꿨습니다)
 use todo;
